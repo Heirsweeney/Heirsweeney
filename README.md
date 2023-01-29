@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+### I am Sweeney Opoku. 
+### I am currently learning Python and R.
+### Ask me about anything. 
+### Pronouns:She/her
+### How to reach me:IG:@heirsweeney/email:so59933n@pace.edu
+### Fun fact: I love fine dining.
 <!--
 **Heirsweeney/Heirsweeney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
